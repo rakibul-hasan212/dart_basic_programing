@@ -1,6 +1,6 @@
 # basic_dart_programm
 
-A new Flutter project.
+If you want to see the dart basic code, You have to go lib file to show all the basic code here.
 
 ## Getting Started
 
