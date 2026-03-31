@@ -1,9 +1,5 @@
 # 🏷️ Dart Basic Programming
 
-![Dart](https://img.shields.io/badge/Language-Dart-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ---
 
 ## 📖 Overview
@@ -141,7 +137,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Rakibul Hasan**
+Rakibul Hasan
+<br>
 GitHub: https://github.com/rakibul-hasan212
 
 ---
